@@ -1,2 +1,2 @@
 # test.xxx
-eggnog-mapper
+eggnog-mapper is a test.
